@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: yourdockerhub/my-app:latest   # Jenkins sẽ thay dòng này
+          image: anhduc8702/my-microservices-app:latest   # Jenkins sẽ thay dòng này
           ports:
             - containerPort: 3000
