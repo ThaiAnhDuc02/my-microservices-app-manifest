@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: anhduc8702/my-microservices-app:11
+          image: anhduc8702/my-microservices-app:12
           ports:
             - containerPort: 3000
